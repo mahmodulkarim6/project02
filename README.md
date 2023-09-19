@@ -21,7 +21,7 @@
                 <li><a href"#">Blog</a></li>
                 <li><a href"#">Play</a></li>
                 <li><a href"#">AI-Help<sup class="new beta">Beta</sup></a></li>
-                    
+                
             </ul>
         </nav>
         <div id="logo">
